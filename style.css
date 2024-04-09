@@ -43,3 +43,11 @@ img {
 	height: 100%;
 	background-color: rgba(31, 31, 31, 0.4);
 }
+.site-navigation{
+	position: bottom;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(31, 31, 31, 0.4);
+}
