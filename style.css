@@ -36,7 +36,7 @@ img {
 	background-color: rgba(60, 60, 60, 1);
 }
 .overlay{
-	position: 20%;
+	position: bottom;
 	top: 0;
 	left: 0;
 	width: 100%;
